@@ -1,0 +1,6 @@
+C:\Users\test\Desktop\SwatiBhatia\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\test\Desktop\SwatiBhatia\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\test\Desktop\SwatiBhatia\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\test\Desktop\SwatiBhatia\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\test\Desktop\SwatiBhatia\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\test\Desktop\SwatiBhatia\Calculator\Calculator\obj\Debug\Calculator.pdb
